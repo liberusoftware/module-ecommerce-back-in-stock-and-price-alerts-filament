@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-back-in-stock-and-price-alerts-filament",
+  "capabilityKey": "planned:ecommerce:back-in-stock-and-price-alerts",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-back-in-stock-and-price-alerts-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/back-in-stock-and-price-alerts.md",
+  "presentationPlan": "projects/ecommerce/filament/back-in-stock-and-price-alerts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
